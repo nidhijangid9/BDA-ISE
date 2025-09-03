@@ -1,0 +1,4 @@
+# Python virtual environment
+classroom_env/
+*.pyc
+__pycache__/
